@@ -1,7 +1,11 @@
 # Default ignored files
 /shelf/
-.idea
-*.iml
-.*
-!/.gitignore
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/POWeeklyChallenge.iml
+.idea/vcs.xml
+.idea/workspace.xml
+week1/week1.iml
+
+
 
