@@ -9,3 +9,10 @@ Write an SQL Script to Seed Sample Data and answer the below queries:
 
 [My solution](week1/src/sql_solution.java)
 ***
+##### Sept 15, 2021 (Java)
+1) Write a program to encrypt a message using the ROT13 technique.
+   
+2) Write a program to convert a decimal number to its octal equivalent.
+
+
+***
