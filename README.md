@@ -7,7 +7,7 @@ Write an SQL Script to Seed Sample Data and answer the below queries:
 - Write an SQL query to fetch intersecting records of two tables.
 - Write an SQL query to determine the 5th highest salary without using TOP or limit method.
 
-[My solution](week1/src/sql_solution.java)
+[My solution](week1/src/sql_solution.sql)
 ***
 ##### Sept 15, 2021 (Java)
 1) Write a program to encrypt a message using the ROT13 technique.
