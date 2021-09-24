@@ -30,5 +30,5 @@ Notes
 -The actual storage loss on a USB device is 7% of the overall memory size!
 -If the actual memory size was greater than 1 GB, round your result to two decimal places.
 -If the memory size after adjustment is smaller then 1 GB, return the result in MB.
-
+[Solution](week3/src/MemorySize.java)
 ***
